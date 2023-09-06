@@ -7,7 +7,7 @@ class admin
 		double percentage=(total/600.0)*100;
 		if(percentage>80)
 		{
-			char section='A';
+			char section='F';
 			int scholarship=10000;
 			int donation=0;
 			String grade="distinction";
