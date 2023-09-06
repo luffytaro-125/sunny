@@ -16,7 +16,7 @@ class admin
 		}
 		else
 		{
-			char section='B';
+			char section='C';
 			int scholarship=0;
 			int donation=10000;
 			String grade="pass";
